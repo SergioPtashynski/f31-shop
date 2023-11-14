@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f31-shop/static/css/main.bb214daf.css",
+    "main.js": "/f31-shop/static/js/main.c40fc3d4.js",
+    "index.html": "/f31-shop/index.html",
+    "main.bb214daf.css.map": "/f31-shop/static/css/main.bb214daf.css.map",
+    "main.c40fc3d4.js.map": "/f31-shop/static/js/main.c40fc3d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb214daf.css",
+    "static/js/main.c40fc3d4.js"
+  ]
+}
